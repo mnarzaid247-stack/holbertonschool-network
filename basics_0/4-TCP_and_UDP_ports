@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Displays all listening ports along with their PID and program name.
+
+sudo netstat -lp
